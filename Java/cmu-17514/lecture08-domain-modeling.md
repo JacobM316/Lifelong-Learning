@@ -1,4 +1,4 @@
-# Lecture 08 A Formal Design Process: Domain Modeling
+##
 
 ## Domain Model
 
